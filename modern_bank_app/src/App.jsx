@@ -2,7 +2,6 @@ import styles from './style';
 
 import { Navbar,
   Billing,
-  CardDeal,
   Business,
   Clients,
   CTA,
@@ -30,7 +29,6 @@ const App = () =>  (
           <Stats/>
           <Business/>
           <Billing/>
-          <CardDeal/>
           <Testimonials/>
           <Clients/>
           <CTA/>
